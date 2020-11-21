@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Panagiotis Chatzinikolaou is a PhD researcher at the Aristotle University of Thessaloniki. His research interests include oxygen delivery and muscle oxygenation, mobile computing and programmable matter. The title of his PhD project is: Redox effects of exercise and antioxidant supplementation in fatigue: a uantitative approach.
+Panagiotis Chatzinikolaou is a PhD researcher at the Aristotle University of Thessaloniki. His research interests include oxygen delivery and muscle oxygenation, mobile computing and programmable matter. The title of his PhD project is: Redox effects of exercise and antioxidant supplementation in fatigue: a quantitative approach.
